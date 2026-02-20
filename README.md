@@ -1,4 +1,4 @@
-# AI Character Creator - Refactored
+# AI Character Creator
 
 Anime character generation system in 3 stages with integrated conversational agent.
 
